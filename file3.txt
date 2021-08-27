@@ -1,4 +1,4 @@
 file3 line 1
 file3 line 2
 file3 line 3 1st mod
-
+file3 line 4 2nd line change
